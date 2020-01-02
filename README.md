@@ -1,2 +1,2 @@
 # SnakeJS
-Game Snake javascript vanilla
+Game Snake Javascript-vanilla
